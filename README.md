@@ -1,2 +1,1 @@
-# Build a CI/CD Pipeline with Docker
-
+Just a sample hello world application using Java/Spring Boot
